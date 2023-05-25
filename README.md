@@ -1,4 +1,4 @@
-# GenZ---Career-Aspirations
+# GenZ---Career-Aspiration excel
 In this project I used the Excel for Analyse the GenZ Career Aspiration data and the data insights. In this project I created Effective Dashboard to get the right data insights.
 
 
